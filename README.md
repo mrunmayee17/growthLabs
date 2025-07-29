@@ -6,7 +6,7 @@
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/IA73DnulmNd)
 
 <img width="1429" height="790" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/3a2fb7bb-f720-4800-9c0f-03f1b6a3d6b2" />
-<img width="2970" height="3831" alt="Untitled diagram _ Mermaid Chart-2025-07-29-144848" src="https://github.com/user-attachments/assets/e624617c-c956-4b00-b5f5-1ba54bcfea42" />
+
 
 
 
@@ -47,7 +47,7 @@ GrowthLabs is an intelligent platform that automatically detects drops in user e
 - Automated deployment of approved experiments
 
 ## Architecture
-
+<img width="2970" height="3831" alt="Untitled diagram _ Mermaid Chart-2025-07-29-144848" src="https://github.com/user-attachments/assets/e624617c-c956-4b00-b5f5-1ba54bcfea42" />
 The platform consists of multiple specialized AI agents:
 
 
